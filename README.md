@@ -1,2 +1,2 @@
-# QuantumBot_Core_Version2_Radical_AI
-QuantumChat Bot is a sophisticated chat application built using modern backend technologies. It is coupled with a robust backend powered by Node.js and Firebase Firestore. With features such as real-time message delivery, user authentication, and chat history.
+# CosmoChat_UI_Version2_Radical_AI
+CosmoChat UI is a state-of-the-art chat interface designed to enhance online communication through a seamless and interactive user experience. Built using advanced frontend technologies such as React and Redux, it incorporates OpenAI's GPT technology to offer intelligent, automated responses, enriching user interaction. Key features include real-time message delivery, customizable user themes, and a responsive layout. By integrating with OpenAI, CosmoChat UI aims to transform standard messaging into dynamic conversations, ensuring messages are not just exchanged but are also engaging and insightful.
